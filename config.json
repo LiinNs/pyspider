@@ -1,0 +1,10 @@
+{
+  "taskdb": "mysql+taskdb://root:@localhost:3306/taskdb",
+  "projectdb": "mysql+projectdb://root:@localhost:3306/projectdb",
+  "resultdb": "mysql+resultdb://root:@localhost:3306/resultdb",
+  "webui": {
+    "username": "admin",
+    "password": "admin",
+    "need-auth": true
+  }
+}

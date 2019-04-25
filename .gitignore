@@ -4,6 +4,7 @@ data/*
 .idea
 # C extensions
 *.so
+node_modules
 
 # Packages
 *.egg
